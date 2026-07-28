@@ -47,7 +47,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,java,kotlin,firebase,sqlite,mysql,git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin,firebase,sqlite,mysql,git,github,vscode,figma,postman"/>
 
 </p>
 
